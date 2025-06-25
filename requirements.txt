@@ -1,0 +1,14 @@
+requests
+pandas
+stripe
+requests-oauthlib
+oauthlib
+sellsy-api
+gocardless-pro
+google-auth
+gspread
+regex
+configparser
+datetime
+oauth2client
+babel
