@@ -1,0 +1,558 @@
+{
+    "contact_statuses": [
+        {
+            "id": 31001275329,
+            "name": "Non Contacté Oser le changement",
+            "position": 1,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275333,
+            "name": "NRP Appel + SMS personnalisé Oser le changement",
+            "position": 2,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275334,
+            "name": "NRP Appel et Message Vocal Oser le changement",
+            "position": 3,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275335,
+            "name": "NRP Appel et Mail personnalisé Oser le changement",
+            "position": 4,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275336,
+            "name": "A répondu au message personnalisé suite NRP Oser le changement",
+            "position": 5,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275337,
+            "name": "A appelé pour un proche Oser le changement",
+            "position": 6,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275338,
+            "name": "Trop cher pour lui Oser le changement",
+            "position": 7,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275339,
+            "name": "Appel Sortant Effectué Doit Rappeler Oser le changement",
+            "position": 8,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275340,
+            "name": "Appel effectué mais réflechis Oser le changement",
+            "position": 9,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275341,
+            "name": "A contacter dans le futur Oser le changement",
+            "position": 10,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275342,
+            "name": "SI site finalisée non payée Oser le changement",
+            "position": 11,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275343,
+            "name": "SI Prévu sur plateforme Oser le changement",
+            "position": 12,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275344,
+            "name": "SI Prévu sur Acuity Oser le changement",
+            "position": 13,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275396,
+            "name": "SI Annulé ou Non honoré Oser le changement",
+            "position": 14,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001275295,
+            "name": "Pas interessé Oser le changement",
+            "position": 15,
+            "partial": true,
+            "forecast_type": "Closed Lost",
+            "lifecycle_stage_id": 32023906873
+        },
+        {
+            "id": 31001060874,
+            "name": "Non Contacté Accompagnement",
+            "position": 16,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060876,
+            "name": "Mail Personnalisé Accompagnement",
+            "position": 17,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060877,
+            "name": "SMS Personnalisé Accompagenement",
+            "position": 18,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060878,
+            "name": "NRP Appel + SMS personnalisé",
+            "position": 19,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060879,
+            "name": "NRP Appel + Message Vocal Lead",
+            "position": 20,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060880,
+            "name": "NRP Appel + Mail personnalisé",
+            "position": 21,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060881,
+            "name": "A répondu au message personnalisé suite NRP",
+            "position": 22,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060882,
+            "name": "A fait une demande de rappel",
+            "position": 23,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060883,
+            "name": "A appelé pour un proche",
+            "position": 24,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060884,
+            "name": "Trop cher pour lui lead",
+            "position": 25,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060885,
+            "name": "Appel Sortant Effectué Doit Rappeler",
+            "position": 26,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060886,
+            "name": "Appel effectué mais réflechis Lead",
+            "position": 27,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060887,
+            "name": "A contacter dans le futur Lead",
+            "position": 28,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060888,
+            "name": "Achat Livre",
+            "position": 29,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060889,
+            "name": "SIA site finalisée non payée",
+            "position": 30,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060890,
+            "name": "SIA Prevu sur plateforme (calendly, doctolib, psyhcologue.net, resalib, starofservice)",
+            "position": 31,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060891,
+            "name": "SIA Prévu sur Acuity",
+            "position": 32,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001100607,
+            "name": "A été converti(e)",
+            "position": 33,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001275451,
+            "name": "SI Annulée",
+            "position": 34,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001060892,
+            "name": "Mauvais prospect Lead",
+            "position": 35,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001275455,
+            "name": "Contact Perdu Accompagnement",
+            "position": 36,
+            "partial": true,
+            "forecast_type": "Closed Lost",
+            "lifecycle_stage_id": 32012758207
+        },
+        {
+            "id": 31001124968,
+            "name": "Obtenir le numéro",
+            "position": 37,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001128798,
+            "name": "Non Contacté",
+            "position": 38,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124969,
+            "name": "SMS Envoyé",
+            "position": 39,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124971,
+            "name": "NRP Appel + SMS",
+            "position": 40,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124970,
+            "name": "NRP Appel + Msg Vocal",
+            "position": 41,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124972,
+            "name": "NRP Appel + Email",
+            "position": 42,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124973,
+            "name": "SMS Répondu",
+            "position": 43,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124974,
+            "name": "Commentaire Webinaire Répondu",
+            "position": 44,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124975,
+            "name": "Appel effectué mais réfléchi",
+            "position": 45,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124976,
+            "name": "Appel effectué très bon Lead",
+            "position": 46,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124977,
+            "name": "BPF Prévu",
+            "position": 47,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124978,
+            "name": "BPF Non venu",
+            "position": 48,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124980,
+            "name": "A contacter dans le futur",
+            "position": 49,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001124982,
+            "name": "Mail envoyé",
+            "position": 50,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001128212,
+            "name": "Demande brochure",
+            "position": 51,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001131754,
+            "name": "Trop cher pour lui",
+            "position": 52,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001060873,
+            "name": "Contact perdu formation",
+            "position": 53,
+            "partial": true,
+            "forecast_type": "Closed Lost",
+            "lifecycle_stage_id": 32019529362
+        },
+        {
+            "id": 31001218686,
+            "name": "A appelé pour en savoir plus",
+            "position": 54,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32022743043
+        },
+        {
+            "id": 31001275218,
+            "name": "Pas intéressé",
+            "position": 55,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32022743043
+        },
+        {
+            "id": 31001275220,
+            "name": "Mauvais numéro",
+            "position": 56,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32022743043
+        },
+        {
+            "id": 31001275221,
+            "name": "Demande rappel",
+            "position": 57,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32022743043
+        },
+        {
+            "id": 31001275546,
+            "name": "NRP Appel +SMS",
+            "position": 58,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32022743043
+        },
+        {
+            "id": 31001275547,
+            "name": "NRP Appel +Mail",
+            "position": 59,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32022743043
+        },
+        {
+            "id": 31001275548,
+            "name": "NRP Appel +Msg voc",
+            "position": 60,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32022743043
+        },
+        {
+            "id": 31001275549,
+            "name": "Appel effectué mais réfléchis",
+            "position": 61,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32022743043
+        },
+        {
+            "id": 31001275687,
+            "name": "Stage posé sur acquity",
+            "position": 62,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32022743043
+        },
+        {
+            "id": 31001218687,
+            "name": "A déjà fait son stage mais ailleurs",
+            "position": 63,
+            "partial": true,
+            "forecast_type": "Closed Lost",
+            "lifecycle_stage_id": 32022743043
+        },
+        {
+            "id": 31001060868,
+            "name": "Qualified",
+            "position": 64,
+            "partial": true,
+            "forecast_type": "Open",
+            "lifecycle_stage_id": 32012758208
+        },
+        {
+            "id": 31000694287,
+            "name": "Won",
+            "position": 65,
+            "partial": true,
+            "forecast_type": "Closed Won",
+            "lifecycle_stage_id": 32012758209
+        },
+        {
+            "id": 31000694288,
+            "name": "Perdu",
+            "position": 66,
+            "partial": true,
+            "forecast_type": "Closed Lost",
+            "lifecycle_stage_id": 32012758209
+        }
+    ],
+    "lifecycle_stages": [
+    {
+      "id": 32023906873,
+      "name": "OLC Accompagnement"
+    },
+    {
+      "id": 32012758207,
+      "name": "Sarah Nacass Accompagnement"
+    },
+    {
+      "id": 32019529362,
+      "name": "Sarah Nacass Formation"
+    },
+    {
+      "id": 32022743043,
+      "name": "Stage de sensibilisation"
+    },
+    {
+      "id": 32012758208,
+      "name": "Sales Qualified Lead"
+    },
+    {
+      "id": 32012758209,
+      "name": "Customer"
+    }
+  ]
+}
